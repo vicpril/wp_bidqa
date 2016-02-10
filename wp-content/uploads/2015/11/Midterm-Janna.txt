@@ -1,0 +1,26 @@
+1. What is QA? 
+2. What is a software development life cycle? 
+3. What is a black box/white/grey box testing? 
+4. What is a regression testing? 
+5. Briefly describe 3 other testing types.
+6. What is use case?  
+7. What is a bug? Where do you document it?
+8. What are the most important parts of bug report? 
+9. What is Test Case? How is it different from Test Plan? 
+10. What does Test Case include? 
+11. What will you do if a developer cannot reproduce your defect
+12.Write ONE Bug Report and ONE Test 
+Case for the following Login Page: 
+
+
+
+
+
+TECHNICAL:
+13.What is HTML? Explain a general layout of HTML document.  
+14.What is anchor tag in HTML format and how do you use it? 
+15.HTML document: name a few text formatting examples
+16. How would you display HTML text in the following format:  "Hello World!"?  
+17. How do you define an HTML list? Any other list       types?   (syntax)
+18. How to comment a single line/multiple lines in HTML? Give an example.
+19. What is the first character in HTML declaration? 

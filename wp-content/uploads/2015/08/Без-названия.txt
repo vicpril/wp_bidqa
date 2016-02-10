@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1347.57">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Times; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;form_action.asp&gt;</span></p>
+<p class="p1"><span class="s1">&lt;html&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;head&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;/head&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;body&gt;</span></p>
+<p class="p1"><span class="s1">&lt;H2&gt; &lt;font size="5" color="red"&gt; &lt;p style="text-align: center;"&gt; Dear Roberto! &lt;/p&gt; &lt;/font&gt; &lt;/H2&gt;</span></p>
+<p class="p1"><span class="s1">                      </span></p>
+<p class="p1"><span class="s1">&lt;BR&gt;Wish you are here!</span></p>
+<p class="p1"><span class="s1">                       &lt;P&gt; Successfully passed all exams and I am heading to Santiago on</span></p>
+<p class="p1"><span class="s1">                 &lt;font size="4" color="red"&gt; Aug 12th.&lt;/font&gt; &lt;/P&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;BR&gt; &lt;p style="text-align: center;"&gt; Love you!&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">                      </span></p>
+<p class="p1"><span class="s1">&lt;BR&gt; &lt;font size="4" color="red"&gt; &lt;p style="text-align: center;"&gt; Anna&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;br&gt; &lt;font size="3" color="red"&gt;Text1&lt;/font&gt;</span></p>
+<p class="p1"><span class="s1">&lt;br&gt; &lt;font face="verdana" color="green"&gt;Text2&lt;/font&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1"> &lt;br&gt; &lt;p style="text-align: center;"&gt;Center-aligned Text&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">&lt;br&gt; &lt;p style="text-align: left;"&gt;Left-aligned Text&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;br&gt; &lt;p style="font-family:arial; color:red; font-size:20px"&gt; Text3 &lt;/p&gt; &lt;/font&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;P&gt; &lt;p style="text-align: center; " &lt;STRONG&gt;Restaurant Menu:&lt;/STRONG&gt;&lt;/P&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;ul&gt;</span></p>
+<p class="p1"><span class="s1">                 &lt;ul type = “square”&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">                       &lt;li&gt;Bass, cooked in tomato sauce&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;li&gt;Alaskan halibut in wine&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;li&gt;New York steak 12 oz&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;li&gt;Broccoli and beef&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;/ul&gt;</span></p>
+<p class="p1"><span class="s1">&lt;P&gt;&lt;STRONG&gt;Restaurant Menu:&lt;/STRONG&gt;&lt;/P&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;ol&gt;</span></p>
+<p class="p1"><span class="s1">                  &lt;ul type = “square”&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">                       &lt;li&gt;Bass, cooked in tomato sauce&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;li&gt;Alaskan halibut in wine&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;li&gt;New York steak 12 oz&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;li&gt;Broccoli and beef&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;/ol&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;dl&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;dt&gt;Coffee&lt;/dt&gt;</span></p>
+<p class="p1"><span class="s1">     </span></p>
+<p class="p1"><span class="s1">      &lt;dd&gt; black hot drink&lt;/dd&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;dt&gt;Milk&lt;/dt&gt;</span></p>
+<p class="p1"><span class="s1">      &lt;dd&gt; - white cold drink&lt;/dd&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/dl&gt;</span></p>
+<p class="p1"><span class="s1">&lt;p&gt;&lt;strong&gt;Form Textarea Test:&lt;/strong&gt;&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">   &lt;form&gt;</span></p>
+<p class="p1"><span class="s1">              </span></p>
+<p class="p1"><span class="s1">   &lt;form action="form_action.asp" method="get"&gt;</span></p>
+<p class="p1"><span class="s1"> First Name: &lt;input type="text" name="firstname"/&gt;&lt;br&gt;</span></p>
+<p class="p1"><span class="s1">             Last Name: &lt;input type="text" name=“lastname"/&gt;&lt;br&gt;</span></p>
+<p class="p1"><span class="s1">             Password: &lt;input type="password" name="pwd"/&gt;&lt;br&gt;</span></p>
+<p class="p1"><span class="s1">             &lt;input type="radio" name="sex" value="male"/&gt; Male</span></p>
+<p class="p1"><span class="s1"> &lt;input type="radio" name="sex" value="female"/&gt; Female&lt;br&gt;</span></p>
+<p class="p1"><span class="s1">             &lt;input type="checkbox" name="age" value="Age1"/&gt; Age 0-18&lt;br&gt;</span></p>
+<p class="p1"><span class="s1">             &lt;input type="checkbox" name="age" value="Age2"/&gt; Age 18+&lt;br&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;input type="submit" value="Submit" /&gt;</span></p>
+<p class="p1"><span class="s1">   &lt;/form&gt;                    ****Submit doesn’t work, because it’s just a test file!</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;p&gt;&lt;strong&gt;Form Textarea Test:&lt;/strong&gt;&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">   &lt;form&gt;</span></p>
+<p class="p1"><span class="s1">               &lt;textarea name="user_feedback" rows="20" cols="60"&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">                      </span></p>
+<p class="p1"><span class="s1">               &lt;/textarea&gt;</span></p>
+<p class="p1"><span class="s1">   &lt;/form&gt;&lt;p&gt;&lt;strong&gt;Test Form Select:&lt;/strong&gt;&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">                &lt;form&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;p&gt;Colors:    &lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">                        &lt;select name="Colors"&gt;</span></p>
+<p class="p1"><span class="s1">                  &lt;option value="yellow"&gt;Yellow&lt;/option&gt;</span></p>
+<p class="p1"><span class="s1">                  &lt;option value="blue"&gt;Blue&lt;/option&gt;</span></p>
+<p class="p1"><span class="s1">                  &lt;option value="black"&gt;Black&lt;/option&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;/select&gt;</span></p>
+<p class="p1"><span class="s1">                     &lt;p&gt;Forms:&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">                       &lt;select name="Forms"&gt;</span></p>
+<p class="p1"><span class="s1">                 &lt;option value="circle"&gt;Circle&lt;/option&gt;</span></p>
+<p class="p1"><span class="s1">                 &lt;option value="square"&gt;Square&lt;/option&gt;</span></p>
+<p class="p1"><span class="s1">                 &lt;option value="triangle"&gt;Triangle&lt;/option&gt;</span></p>
+<p class="p1"><span class="s1">            &lt;/select&gt;</span></p>
+<p class="p1"><span class="s1">                 &lt;/form&gt;</span></p>
+<p class="p1"><span class="s1">&lt;form action="http://en.wikipedia.org/wiki/Color" method="get"&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;br&gt;Dear Parents,</span></p>
+<p class="p1"><span class="s1">      &lt;br&gt;&lt;br&gt;I vowed to begin the year with a unit on teaching color theory.</span></p>
+<p class="p1"><span class="s1">      &lt;br&gt;&lt;br&gt;By second grade, kids know the primary and secondary colors.</span></p>
+<p class="p1"><span class="s1">      &lt;br&gt;&lt;br&gt;See more at Wikipedia reference on &lt;br&gt;</span></p>
+<p class="p1"><span class="s1">      &lt;a href="http://en.wikipedia.org/wiki/Color"&gt;&lt;b&gt;&lt;i&gt;colors&lt;/i&gt;&lt;/b&gt;&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;input type="Submit" value="COLOR" /&gt;</span></p>
+<p class="p1"><span class="s1">   &lt;/form&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;br&gt;Dear Parents,</span></p>
+<p class="p1"><span class="s1">      &lt;br&gt;&lt;br&gt;I vowed to begin the year with a unit on teaching color theory.</span></p>
+<p class="p1"><span class="s1">      &lt;br&gt;&lt;br&gt;By second grade, kids know the primary and secondary colors.</span></p>
+<p class="p1"><span class="s1">      &lt;br&gt;&lt;br&gt;See more at Wikipedia reference on</span></p>
+<p class="p1"><span class="s1">             &lt;a href="http://en.wikipedia.org/wiki/Color" target = "_blank" style="text-decoration:none"&gt; &lt;b&gt;&lt;i&gt;colors&lt;/i&gt;&lt;/b&gt;&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1">    &lt;/body&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;/body&gt;</span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">&lt;/html&gt;</span></p>
+</body>
+</html>

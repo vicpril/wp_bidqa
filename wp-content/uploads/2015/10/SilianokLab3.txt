@@ -1,0 +1,163 @@
+vlad@olga-TOSHIBA-NB255:~$ script -a SilianokLab3
+Script started, file is SilianokLab3
+vlad@olga-TOSHIBA-NB255:~$ echo vlad lab3
+vlad lab3
+vlad@olga-TOSHIBA-NB255:~$ 
+vlad@olga-TOSHIBA-NB255:~$ pwd
+/home/vlad
+vlad@olga-TOSHIBA-NB255:~$ echo $SHELL
+/bin/bash
+vlad@olga-TOSHIBA-NB255:~$ mkdir cs30a
+mkdir: cannot create directory ‘cs30a’: File exists
+vlad@olga-TOSHIBA-NB255:~$ cd cs30a
+vlad@olga-TOSHIBA-NB255:~/cs30a$ pwd
+/home/vlad/cs30a
+vlad@olga-TOSHIBA-NB255:~/cs30a$ mkdir lab3
+vlad@olga-TOSHIBA-NB255:~/cs30a$ cd lab3
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ pwd
+/home/vlad/cs30a/lab3
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ touch practice
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls
+practice
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls -l practice
+-rw-rw-r-- 1 vlad vlad 0 Oct 13 15:08 practice
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls > seeStdOut
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat seeStdOut
+practice
+seeStdOut
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls notfound
+ls: cannot access notfound: No such file or directory
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls notfound > seeStdOut
+ls: cannot access notfound: No such file or directory
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat seeStdOut
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls notfound 2> seeStdErr
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat seeStdErr
+ls: cannot access notfound: No such file or directory
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ rm practice
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cp practice practice2
+cp: cannot stat ‘practice’: No such file or directory
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cp practice practice2 > errOut 2> &1
+bash: syntax error near unexpected token `&'
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat errOut
+cat: errOut: No such file or directory
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat > practice
+line1
+line2
+line3
+^C
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat practice
+line1
+line2
+line3
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat >> practice
+line4
+^C
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat practice
+line1
+line2
+line3
+line4
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat > practice
+start over
+^C
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat practice
+start over
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cp practice practice2
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls -a
+.  ..  practice  practice2  seeStdErr  seeStdOut
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ less /etc/services
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ head /etc/services
+# Network services, Internet style
+#
+# Note that it is presently the policy of IANA to assign a single well-known
+# port number for both TCP and UDP; hence, officially ports have two entries
+# even if the protocol doesn't support UDP operations.
+#
+# Updated from http://www.iana.org/assignments/port-numbers and other
+# sources like http://www.freebsd.org/cgi/cvsweb.cgi/src/etc/services .
+# New ports will be added on request if they have been officially assigned
+# by IANA and used in the real-world or are needed by a debian package.
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ tail /etc/services
+vboxd		20012/udp
+binkp		24554/tcp			# binkp fidonet protocol
+asp		27374/tcp			# Address Search Protocol
+asp		27374/udp
+csync2		30865/tcp			# cluster synchronization tool
+dircproxy	57000/tcp			# Detachable IRC Proxy
+tfido		60177/tcp			# fidonet EMSI over telnet
+fido		60179/tcp			# fidonet EMSI over TCP
+
+# Local services
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ mv practice2 practice1
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls -m
+practice, practice1, seeStdErr, seeStdOut
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat > days
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+^C
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ wc days
+ 7  7 57 days
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ grep Wednesday days
+Wednesday
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat >> days
+Wednesday
+^C
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ grep Wednesday days > howMany
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat howMany
+Wednesday
+Wednesday
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ mkdir two
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cd two
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3/two$ pwd
+/home/vlad/cs30a/lab3/two
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3/two$ cd ..
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ file two
+two: directory 
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ sort < days > sortedDays
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat sortedDays
+Friday
+Monday
+Saturday
+Sunday
+Thursday
+Tuesday
+Wednesday
+Wednesday
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat > misspell
+Mondaay
+^C
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat misspell | spell
+The program 'spell' is currently not installed. To run 'spell' please ask your administrator to install the package 'spell'
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat misspell | spell > needtoCorrect
+The program 'spell' is currently not installed. To run 'spell' please ask your administrator to install the package 'spell'
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat needtoCorrect
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat > f1
+This is f1
+^C
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat < f1
+This is f1
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat f1 f3 > f2
+cat: f3: No such file or directory
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat f2
+This is f1
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat f1 f3 2> f2
+This is f1
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat f2
+cat: f3: No such file or directory
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat f1 f3 > f2 2>&1
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ cat f2
+This is f1
+cat: f3: No such file or directory
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ ls -aL .
+.   days  f2       misspell       practice   seeStdErr  sortedDays
+..  f1    howMany  needtoCorrect  practice1  seeStdOut  two
+vlad@olga-TOSHIBA-NB255:~/cs30a/lab3$ exit
+exit
+Script done, file is SilianokLab3
+vlad@olga-TOSHIBA-NB255:~$ 
+

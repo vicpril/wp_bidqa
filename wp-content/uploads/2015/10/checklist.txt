@@ -1,0 +1,65 @@
+Vlad Silianok. 
+Tested by using IE 11
+Windows 7 64-bit
+
+Functional Checklist for BidQA:
+
+New User (Engineer):
+x  1. Registration
+x   1. Email verification
+x   2. Editing profile
+x   1. Change password
+x    2. Change personal info
+
+New User (Owner):
+x  1. Registration
+x    1. Email verification
+x  2. Editing profile
+x    1. Change password
+x    2. Change personal info
+
+New Project (engineer):
+x  1. Searching for project
+x    1. By date
+x    2. By location
+x    3. By keywords
+x  2. Bidding on project
+x    1. Submit bid
+x   2. Edit bid (disabled once bid has been accepted by owner)
+x  3. Start work (start timer)
+x    1. End work (stop timer)
+x    2. Multiple sessions (timer breaks?)
+x  4. Complete work (Project duration ends)
+
+New Project (owner):
+x  1. Creation of project
+-    1. Add/remove files
+x  2. Edit project
+x    1. Before enrolling engineers
+x    2. After enrolling engineers
+x  3. Accept bids
+x    1. Before enrolling engineers
+x    2. After enrolling engineers
+x    3. Accept single/multiple
+x  4. Reject bids
+x    1. Before enrolling engineers
+x    2. After enrolling engineers
+x    3. Reject single/multiple
+x  5. Add engineers
+x    1. Add single/multiple
+x    2. Cannot add after project ends
+x  6. Remove engineers
+x    1. Remove single/multiple
+x    2. Remove after project ends
+
+Finances (engineer):
+  1. Can receive payment for completed projects
+  2. Cannot receive payment for incomplete projects
+  3. Can withdraw money to paypal account
+
+Finances (owner):
+  1. Can pay for completed projects
+  2. Can add funds to his account
+  3. Can make escrow
+  4. Can withdraw funds
+  5. Can select which engineer to pay if multiple are assigned to single project

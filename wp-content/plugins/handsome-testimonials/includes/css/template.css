@@ -1,0 +1,20 @@
+/* Styles for Template #1 */
+
+/* handsometestimonials Wrapper */
+.hndtst_wrapper {
+	text-align: center;
+}
+
+/* Testimonial Style */
+.hndtst {
+    padding: 4%;
+    margin: 0 1% 2% 1%;
+    vertical-align: top;
+    position: relative;
+}
+
+/* Testimonial Title Style */
+#tst_title {
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+}

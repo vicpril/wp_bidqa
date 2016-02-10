@@ -1,0 +1,16 @@
+Preconditions
+1. Contractor must have posted project.
+2. Provider must have a bid on the project.
+3 .Contractor must have funds available for escrow.
+4. Must be logged in as a contractor
+
+Steps:
+1. Go to http://projects.for-test1ng.ml [^]
+2. Go to My Account
+3. Choose a project where you have bids
+4. Click select as winner under proposals
+5. Click "Yes, Choose winner Now!" button
+6. Observe that you can choose a winner without having funds for escrow
+
+Expected result: Contractor can't choose winners without having funds to pay out
+Actual result: Contractor can choose a provider as a winner for the project only with having available funds for escrow

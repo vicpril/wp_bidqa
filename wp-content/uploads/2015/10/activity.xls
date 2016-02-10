@@ -1,0 +1,373 @@
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+
+<style>
+table {
+border-top: #909090 1px solid;
+border-left: #909090 1px solid;
+}
+td {
+font-family: Tahoma;
+font-size: 10px;
+color: #000000;
+border-right: #909090 1px solid;
+border-bottom: #909090 1px solid;
+}
+td.access {
+background-color: #DDDDDD;
+}
+td.label {
+background-color: #DDDDDD;
+font-weight: bold;
+}
+.body {	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none }td.cls1 {
+padding-left: 12px;
+background-color: #DDDDDD;
+font-weight: bold;
+}
+</style>
+</head>
+<body class='body' onload='doOnLoad();'>
+<span class='body'><b>Activity Summary</b></span><br><span class='body'>ShareVault: <b>Build_626</b><br>5/12/2011&nbsp;&nbsp;11:40 AM (Time Zone: GMT -07:00)<br><br></span>
+<table cellspacing='0' cellpadding='2' border='0'><tr>
+<td align='left' class='access'>&nbsp;</td>
+<td align='center' nowrap class='label'>Everyone</td>
+<td align='center' nowrap class='label'>Administrators</td>
+<td align='center' nowrap class='label'>Group003</td>
+<td align='center' nowrap class='label'>Group004</td>
+<td align='center' nowrap class='label'>New Group 01</td>
+<td align='center' nowrap class='label'>Non Admin</td>
+<td align='center' nowrap class='label'>Q&A Moderators</td>
+<td align='center' nowrap class='label'>Restricted</td>
+<td align='center' nowrap class='label'>TestGroup05</td>
+<td align='center' nowrap class='label'>testing group</td>
+</tr>
+<tr>
+<td align='left' class='label'>Users Invited</td>
+<td align='center'>9 </td>
+<td align='center'>1 </td>
+<td align='center'>0 </td>
+<td align='center'>1 </td>
+<td align='center'>1 </td>
+<td align='center'>2 </td>
+<td align='center'>1 </td>
+<td align='center'>1 </td>
+<td align='center'>1 </td>
+<td align='center'>4 </td>
+</tr>
+<tr>
+<td align='left' class='label'>Users Who Have Logged-in at Least Once</td>
+<td align='center'>7</td>
+<td align='center'>1</td>
+<td align='center'>0</td>
+<td align='center'>0</td>
+<td align='center'>1</td>
+<td align='center'>2</td>
+<td align='center'>1</td>
+<td align='center'>1</td>
+<td align='center'>1</td>
+<td align='center'>3</td>
+</tr>
+<tr>
+<td align='left' class='label'>Logins</td>
+<td align='center'>197</td>
+<td align='center'>152</td>
+<td align='center'>0</td>
+<td align='center'>0</td>
+<td align='center'>9</td>
+<td align='center'>25</td>
+<td align='center'>3</td>
+<td align='center'>3</td>
+<td align='center'>13</td>
+<td align='center'>20</td>
+</tr>
+<tr>
+<td align='left' class='label'>Last Login</td>
+<td align='center'>05/06/2011 6:33:27 AM</td>
+<td align='center'>04/29/2011 3:25:43 AM</td>
+<td align='center'>-</td>
+<td align='center'>-</td>
+<td align='center'>05/06/2011 6:33:27 AM</td>
+<td align='center'>05/06/2011 6:33:27 AM</td>
+<td align='center'>10/21/2010 4:15:51 AM</td>
+<td align='center'>10/21/2010 4:15:51 AM</td>
+<td align='center'>04/11/2011 12:01:14 PM</td>
+<td align='center'>04/28/2011 3:58:17 AM</td>
+</tr>
+<tr>
+<td align='left' class='label'>Accessible Files</td>
+<td align='center'>90</td>
+<td align='center'>90</td>
+<td align='center'>5</td>
+<td align='center'>20</td>
+<td align='center'>36</td>
+<td align='center'>45</td>
+<td align='center'>21</td>
+<td align='center'>21</td>
+<td align='center'>31</td>
+<td align='center'>26</td>
+</tr>
+<tr>
+<td align='left' class='label'>Files Accessed</td>
+<td align='center'>28</td>
+<td align='center'>26</td>
+<td align='center'>0</td>
+<td align='center'>0</td>
+<td align='center'>2</td>
+<td align='center'>3</td>
+<td align='center'>0</td>
+<td align='center'>0</td>
+<td align='center'>0</td>
+<td align='center'>1</td>
+</tr>
+<tr>
+<td align='left' class='label'>Accessible Pages</td>
+<td align='center'>4204</td>
+<td align='center'>4204</td>
+<td align='center'>7</td>
+<td align='center'>37</td>
+<td align='center'>528</td>
+<td align='center'>545</td>
+<td align='center'>28</td>
+<td align='center'>28</td>
+<td align='center'>521</td>
+<td align='center'>39</td>
+</tr>
+<tr>
+<td align='left' class='label'>Pages Accessed</td>
+<td align='center'>577</td>
+<td align='center'>573</td>
+<td align='center'>0</td>
+<td align='center'>0</td>
+<td align='center'>2</td>
+<td align='center'>5</td>
+<td align='center'>0</td>
+<td align='center'>0</td>
+<td align='center'>0</td>
+<td align='center'>3</td>
+</tr>
+<tr>
+<td align='left' class='label'>Viewing Time HH:MM</td>
+<td align='center'>00:07</td>
+<td align='center'>-</td>
+<td align='center'>-</td>
+<td align='center'>-</td>
+<td align='center'>00:06</td>
+<td align='center'>00:07</td>
+<td align='center'>-</td>
+<td align='center'>-</td>
+<td align='center'>-</td>
+<td align='center'>00:01</td>
+</tr>
+<tr>
+<td align='left' class='label'>By Tag: Files Accessed</td>
+<td align='center'>28 of 90</td>
+<td align='center'>26 of 90</td>
+<td align='center'>0 of 5</td>
+<td align='center'>0 of 20</td>
+<td align='center'>2 of 36</td>
+<td align='center'>3 of 45</td>
+<td align='center'>0 of 21</td>
+<td align='center'>0 of 21</td>
+<td align='center'>0 of 31</td>
+<td align='center'>1 of 26</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>Untagged</td>
+<td align='center'>15 of 44</td>
+<td align='center'>14 of 44</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 2</td>
+<td align='center'>1 of 6</td>
+<td align='center'>2 of 10</td>
+<td align='center'>0 of 5</td>
+<td align='center'>0 of 5</td>
+<td align='center'>0 of 3</td>
+<td align='center'>1 of 8</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>Tag1_lin</td>
+<td align='center'>7 of 19</td>
+<td align='center'>7 of 19</td>
+<td align='center'>0 of 4</td>
+<td align='center'>0 of 5</td>
+<td align='center'>0 of 18</td>
+<td align='center'>0 of 18</td>
+<td align='center'>0 of 4</td>
+<td align='center'>0 of 4</td>
+<td align='center'>0 of 18</td>
+<td align='center'>0 of 5</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>Tag2_str</td>
+<td align='center'>3 of 17</td>
+<td align='center'>2 of 17</td>
+<td align='center'>0 of 4</td>
+<td align='center'>0 of 10</td>
+<td align='center'>0 of 10</td>
+<td align='center'>1 of 15</td>
+<td align='center'>0 of 9</td>
+<td align='center'>0 of 9</td>
+<td align='center'>0 of 10</td>
+<td align='center'>1 of 13</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>Tag3_lin</td>
+<td align='center'>4 of 11</td>
+<td align='center'>3 of 11</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 10</td>
+<td align='center'>1 of 6</td>
+<td align='center'>1 of 6</td>
+<td align='center'>0 of 4</td>
+<td align='center'>0 of 4</td>
+<td align='center'>0 of 6</td>
+<td align='center'>0 of 3</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>Tag_str</td>
+<td align='center'>3 of 6</td>
+<td align='center'>3 of 6</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 5</td>
+<td align='center'>0 of 6</td>
+<td align='center'>0 of 6</td>
+<td align='center'>0 of 4</td>
+<td align='center'>0 of 4</td>
+<td align='center'>0 of 5</td>
+<td align='center'>0 of 5</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>test</td>
+<td align='center'>3 of 3</td>
+<td align='center'>3 of 3</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 2</td>
+<td align='center'>0 of 2</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 2</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>admin{0}</td>
+<td align='center'>1 of 2</td>
+<td align='center'>1 of 2</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 2</td>
+<td align='center'>0 of 2</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>T7</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>T8</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>T9</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>T10</td>
+<td align='center'>0 of 2</td>
+<td align='center'>0 of 2</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>T12</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>T11</td>
+<td align='center'>1 of 1</td>
+<td align='center'>1 of 1</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 1</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>Tag_</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+</tr>
+<tr>
+<td align='left' class='cls1'>taag</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+<td align='center'>0 of 0</td>
+</tr>
+</table>
+</body>
+</html>
