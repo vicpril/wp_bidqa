@@ -65,6 +65,7 @@ else {
  *
  * @since 2.6.0
  */
+define('REVISR_GIT_PATH', 'https://github.com/vicpril/rep_bidqa.git'); // Added by Revisr
 define('AUTH_KEY',         'put your unique phrase here');
 define('SECURE_AUTH_KEY',  'put your unique phrase here');
 define('LOGGED_IN_KEY',    'put your unique phrase here');
